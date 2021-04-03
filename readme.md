@@ -7,3 +7,8 @@
  - covidsimstat_01static.txt: 시뮬레이션 1 세부 통계
  - covidsimstat_02static.txt: 시뮬레이션 2 세부 통계
  - Matthew Roh's Game of COVID19.exe: 시연용 실행 파일
+
+# Mattroh's Game of Covid
+a cellular automaton inspired by John Conway's Game of Life
+
+can test out on inter.cpp lol
